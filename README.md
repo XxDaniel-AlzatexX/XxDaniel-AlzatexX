@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning about frameworks and CI/CD.
 - 👯 I’m looking to collaborate on some videogame project.
 - 💬 Ask me about why java is the best programming language.
-- ⚡ Ccurious fact: I am very empathetic.
+- ⚡ Curious fact: I am very empathetic.
 - ✨ Fun fact: I don't like shellfish.
 - 📫 How to reach me: daniel-alzatem@javeriana.edu.co
