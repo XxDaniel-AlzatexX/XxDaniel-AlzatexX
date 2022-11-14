@@ -1,5 +1,5 @@
 **Hi, my name is Daniel 😄 I am an Systems Engineering at Pontificia Universidad Javeriana. I am extremely passionate and motivated when it comes to learn new technologies. I like to improve myself in all aspects of my life and give the best of myself. 😎**
-**👀 My GitHub is recently created because I never had use it to upload my projects. In this moment, I will upload all projects that I consider that are good. This also includes my past projects 😅**
+**👀 I will upload all projects that I consider that are good. This also includes my past projects 😅**
 
 - 🌱 I’m currently learning about frameworks and CI/CD.
 - 👯 I’m looking to collaborate on some videogame project.
