@@ -2,7 +2,6 @@
 **👀 I will upload all projects that I consider that are good. This also includes my past projects 😅**
 
 - 🌱 I’m currently learning about frameworks and CI/CD.
-- 👯 I’m looking to collaborate on some videogame project.
 - 💬 Ask me about why java is the best programming language.
 - ⚡ Curious fact: I am very empathetic.
 - ✨ Fun fact: I don't like shellfish.
