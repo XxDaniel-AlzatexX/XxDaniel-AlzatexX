@@ -1,8 +1,9 @@
-**Hi, my name is Daniel 😄 I am an Systems Engineering at Pontificia Universidad Javeriana. I am extremely passionate and motivated when it comes to learn new technologies. I like to improve myself in all aspects of my life and give the best of myself. 😎**
-**👀 I will upload all projects that I consider that are good. This also includes my past projects 😅**
+**Software Engineer focused on building scalable and efficient solutions using Java and Spring Boot ☕
 
-- 🌱 I’m currently learning about frameworks and CI/CD.
-- 💬 Ask me about why java is the best programming language.
-- ⚡ Curious fact: I am very empathetic.
-- ✨ Fun fact: I don't like shellfish.
+Experienced in process automation, API development, and system integration ⚙️
+
+Passionate about clean code, backend architecture, and continuous learning 📚
+
+Building technology that delivers real business value 🚀**
+
 - 📫 How to reach me: danielfelipezt@gmail.com
